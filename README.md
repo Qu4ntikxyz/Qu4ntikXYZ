@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🧬 Qu4ntik Security Research
 
-<!--
-**Qu4ntikxyz/Qu4ntikXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building open source tools to secure the AI revolution**
 
-Here are some ideas to get you started:
+## 🎯 Focus Areas
+- **LLM Security**: Prompt injection, jailbreaking, data extraction
+- **AI Red Teaming**: Automated vulnerability discovery
+- **Enterprise Defense**: Production-ready security tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Active Projects
+- [`ai-threat-scanner`](https://github.com/Qu4ntikxyz/ai-threat-scanner) - Detect vulnerabilities in your LLMs
+- [`llm-red-team`](https://github.com/Qu4ntikxyz/llm-red-team) - Automated red teaming framework
+- [`prompt-guard`](https://github.com/Qu4ntikxyz/prompt-guard) - Real-time prompt injection defense
+
+## 🔬 Research Interests
+- Adversarial ML attacks
+- Multi-modal AI security  
+- Quantum-resistant AI encryption
+- RAG poisoning prevention
+
+## 📫 Connect
+- 🌐 Website: [qu4ntik.xyz](https://qu4ntik.xyz)
+- 🐦 Twitter: [@Qu4ntik_xyz](https://twitter.com/Qu4ntik_xyz)
+- 📧 Email: me@qu4ntik.xyz
+
+## 📊 2025 Goals
+- [ ] 10+ open source security tools
+- [ ] CEH Certified
+- [ ] 10K+ developers using our tools
+- [ ] Make AI safer for everyone
+
+---
+*"In a world of black boxes, be the one who sees through"* - Q4
