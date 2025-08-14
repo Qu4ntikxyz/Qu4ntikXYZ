@@ -28,9 +28,10 @@
 - [ ] CEH Certified
 - [ ] 10K+ developers using our tools
 - [ ] Make AI safer for everyone
+
+---
+*"In a world of black boxes, be the one who sees through"* - Q4
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Qu4ntik_xyz?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Qu4ntikxyz?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Qu4ntikxyz&color=cyan)
----
-*"In a world of black boxes, be the one who sees through"* - Q4
+![Profile Views](https://komarev.com/ghpvc/?username=Qu4ntikxyz&color=blue)
