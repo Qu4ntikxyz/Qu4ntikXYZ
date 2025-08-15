@@ -22,7 +22,8 @@
 - 🌐 Website: [qu4ntik.xyz](https://qu4ntik.xyz)
 - 🐦 Twitter: [@Qu4ntik_xyz](https://twitter.com/Qu4ntik_xyz)
 - 📧 Email: me@qu4ntik.xyz
-
+- 🔑 PGP Key: `45FF 7DEE`
+- Full fingerprint: `3E97 35AF 2C1F 3732 6CF0 ECA8 31C1 B7D9 45FF 7DEE`
 ## 📊 2025 Goals
 - [ ] 10+ open source security tools
 - [ ] CEH Certified
